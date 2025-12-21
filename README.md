@@ -1,4 +1,8 @@
 ## Hi there 👋
+🔭 I’m currently working in school like teacher additional
+🌱 I’m currently learning in ITMO on Artificial Intelligence Engineer
+📫 How to reach me: no way:)
+⚡ Fun fact: my second name: Rybka like fish)
 
 <!--
 **DmitriyRybka/DmitriyRybka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
