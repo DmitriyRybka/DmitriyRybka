@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://t.me/ВАШ_КАНАЛ"><img src="https://img.shields.io/badge/Telegram-«Димасик»-26A5E4?logo=telegram&logoColor=white" alt="Telegram"></a>
+  <a href="https://t.me/+-s79ik-pab01NWQy"><img src="https://img.shields.io/badge/Telegram-«Димасик»-26A5E4?logo=telegram&logoColor=white" alt="Telegram"></a>
   <img src="https://img.shields.io/badge/ИТМО-AI%20Engineering-1f6feb" alt="ITMO">
   <img src="https://img.shields.io/badge/Санкт--Петербург-📍-555" alt="Saint Petersburg">
 </p>
@@ -15,9 +15,7 @@
 ## 🔭 Чем занимаюсь
 
 - 🎓 Учусь в ИТМО на направлении AI Engineering
-- 🏫 Веду кружки по робототехнике и схемотехнике для школьников, помогаю организовывать конкурс «РОБО-Зоо»
-- 🗺️ Делаю проекты на стыке карт, геоданных и ML
-- 🌱 Сейчас осваиваю RAG и мультиагентные системы, а ещё C#/.NET с нуля
+- 🏫 Веду кружки по робототехнике и схемотехнике для школьников
 
 ## 🧩 Проекты
 
@@ -39,10 +37,9 @@
 </p>
 
 **Данные и ML:** pandas, NumPy, GeoPandas, Streamlit, sentence-transformers, FAISS<br>
-**Изучаю сейчас:** RAG, агентные системы, C# / .NET
 
 ## 📫 Как связаться
 
-Лучше всего в Telegram: [@ВАШ_НИК](https://t.me/ВАШ_НИК)
+Лучше всего в Telegram: [@JustFishKa](https://t.me/justfishka)
 
-> 🐟 Фанфакт: фамилия Рыбка, так что рыба здесь не случайна
+> 🐟 Фанфакт: фамилия Рыбка
