@@ -48,7 +48,6 @@
   <img src="photos/3.jpg" width="32%">
 </p>
 
-Больше кадров в канале [«It was just a fish»](https://t.me/ВАШ_КАНАЛ)
 
 ## 📫 Как связаться
 
