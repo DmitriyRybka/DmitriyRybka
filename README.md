@@ -1,13 +1,7 @@
-<h1 align="center">Привет, я Дима 👋</h1>
+<h1 align="center">Привет, я Дима ДимаДимаДима</h1>
 
 <p align="center">
-  Студент ИТМО (Искусственный интеллект, ИИИ) · преподаватель доп. образования · разработчик<br>
-</p>
-
-<p align="center">
-  <a href="https://t.me/+-s79ik-pab01NWQy"><img src="https://img.shields.io/badge/Telegram-«Димасик»-26A5E4?logo=telegram&logoColor=white" alt="Telegram"></a>
-  <img src="https://img.shields.io/badge/ИТМО-AI%20Engineering-1f6feb" alt="ITMO">
-  <img src="https://img.shields.io/badge/Санкт--Петербург-📍-555" alt="Saint Petersburg">
+  Студент ИТМО (AI Engineering) · преподаватель доп. образования · разработчик · Санкт-Петербург
 </p>
 
 ---
@@ -28,18 +22,38 @@
 | **Путь лицеиста** | Геймифицированное веб-приложение, помогающее школьникам адаптироваться в лицее | Web |
 | **INCNUM** | AutoLISP-инструмент для AutoCAD: автонумерация блоков вдоль кабельных полилиний и сводная таблица | AutoLISP |
 
-> Ссылки на репозитории добавлю рядом с названиями, как только приведу их в порядок.
+## 🤖 Железо и робототехника
+
+| Проект | О чём | Внутри |
+|---|---|---|
+| **Фонарик для фото** | Портативный свет для съёмки с регулировкой яркости, цветовой температуры и цвета. Заодно будет будильником-рассветом. Сейчас собираю | ESP32-C3, светодиодные ленты на алюминиевой пластине, рассеиватель, 18650 с повышающим преобразователем, энкодер; своя прошивка |
+| **Поворотный стол для 3D-сканирования** | Вращает объект с регулируемой скоростью для моего 3D-сканера. Портативный, работает от одного 18650 | Arduino Leonardo, шаговый мотор 28BYJ-48 |
+| **Подсветка для 3D-принтера** | Белый свет и RGB-подсветка внутри FlashForge Adventurer 5M, плюс камера, чтобы следить за печатью | ESP32-C3 SuperMini, COB-лента 24 В с ШИМ через MOSFET, WS2812B на WLED, Logitech C270 в напечатанном креплении |
 
 ## 🛠️ Технологии
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,c,kotlin,react,git,github,docker,jupyter" alt="skills">
+  <img src="https://skillicons.dev/icons?i=python,c,kotlin,react,arduino,autocad,git,github,jupyter" alt="skills">
 </p>
 
-**Данные и ML:** pandas, NumPy, GeoPandas, Streamlit, sentence-transformers, FAISS<br>
+**Данные и ML:** pandas, NumPy, GeoPandas, Streamlit, sentence-transformers, FAISS
+
+## 📷 Фотография
+
+Снимаю на свою Sony a6400, на ней и научился. Прошёл курс основ творческой фотографии и фотонаправление Школы Мегабайта, сейчас пробую видео: обзоры мест и нарезки прогулок.
+
+<p align="center">
+  <img src="photos/1.jpg" width="32%">
+  <img src="photos/2.jpg" width="32%">
+  <img src="photos/3.jpg" width="32%">
+</p>
+
+Больше кадров в канале [«It was just a fish»](https://t.me/ВАШ_КАНАЛ)
 
 ## 📫 Как связаться
 
-Лучше всего в Telegram: [@JustFishKa](https://t.me/justfishka)
+Telegram: [@justfishka](https://t.me/justfishka)
+
+Ещё веду канал [«It was just a fish»](https://t.me/ВАШ_КАНАЛ): вайбовые фотки, иногда проектики
 
 > 🐟 Фанфакт: фамилия Рыбка
