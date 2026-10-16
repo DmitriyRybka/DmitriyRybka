@@ -43,9 +43,9 @@
 Снимаю на свою Sony a6400, на ней и научился. Прошёл курс основ творческой фотографии и фотонаправление Школы Мегабайта, сейчас пробую видео: обзоры мест и нарезки прогулок.
 
 <p align="center">
-  <img src="photos/1.jpg" width="32%">
-  <img src="photos/2.jpg" width="32%">
-  <img src="photos/3.jpg" width="32%">
+  <img src="1.jpg" width="32%">
+  <img src="2.jpg" width="32%">
+  <img src="3.jpg" width="32%">
 </p>
 
 
