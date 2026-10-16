@@ -1,5 +1,49 @@
-## Hi there 👋
-🔭 I’m currently working in school and IT-litsey like teacher additional and Web-developer
-🌱 I’m currently learning in ITMO on Artificial Intelligence Engineer
-📫 How to reach me: no ways:)
-⚡ Fun fact: my second name: Rybka like fish)
+<h1 align="center">Привет, я Дима 👋</h1>
+
+<p align="center">
+  Студент ИТМО (Искусственный интеллект, ИИИ) · преподаватель доп. образования · разработчик<br>
+  Люблю карты, геоданные и маленькие приложения, которые складываются в одну экосистему
+</p>
+
+<p align="center">
+  <a href="https://t.me/ВАШ_КАНАЛ"><img src="https://img.shields.io/badge/Telegram-«Димасик»-26A5E4?logo=telegram&logoColor=white" alt="Telegram"></a>
+  <img src="https://img.shields.io/badge/ИТМО-AI%20Engineering-1f6feb" alt="ITMO">
+  <img src="https://img.shields.io/badge/Санкт--Петербург-📍-555" alt="Saint Petersburg">
+</p>
+
+---
+
+## 🔭 Чем занимаюсь
+
+- 🎓 Учусь в ИТМО на направлении AI Engineering
+- 🏫 Веду кружки по робототехнике и схемотехнике для школьников, помогаю организовывать конкурс «РОБО-Зоо»
+- 🗺️ Делаю проекты на стыке карт, геоданных и ML
+- 🌱 Сейчас осваиваю RAG и мультиагентные системы, а ещё C#/.NET с нуля
+
+## 🧩 Проекты
+
+| Проект | О чём | Стек |
+|---|---|---|
+| **Geo-RAG для Петербурга** | Вопросы про кафе, парки и музеи в центре города. Проверяю гипотезу: обычный RAG ошибается на вопросах про расстояния, а система с геоинструментом справляется лучше | Python, Ollama, OSMnx, FAISS, GeoPandas |
+| **BulTrack** | GPS-трекер прогулок | Android |
+| **BulMapPlaces** (Place Diary) | Личный дневник мест на карте | Mobile |
+| **BulHub** | Хаб продуктивности, центр моей «Буль-экосистемы» | Full-stack |
+| **Путь лицеиста** | Геймифицированное веб-приложение, помогающее школьникам адаптироваться в лицее | Web |
+| **INCNUM** | AutoLISP-инструмент для AutoCAD: автонумерация блоков вдоль кабельных полилиний и сводная таблица | AutoLISP |
+
+> Ссылки на репозитории добавлю рядом с названиями, как только приведу их в порядок.
+
+## 🛠️ Технологии
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,c,kotlin,react,git,github,docker,jupyter" alt="skills">
+</p>
+
+**Данные и ML:** pandas, NumPy, GeoPandas, Streamlit, sentence-transformers, FAISS<br>
+**Изучаю сейчас:** RAG, агентные системы, C# / .NET
+
+## 📫 Как связаться
+
+Лучше всего в Telegram: [@ВАШ_НИК](https://t.me/ВАШ_НИК)
+
+> 🐟 Фанфакт: фамилия Рыбка, так что рыба здесь не случайна
