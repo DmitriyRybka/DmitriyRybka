@@ -15,7 +15,7 @@
 
 | Проект | О чём | Стек |
 |---|---|---|
-| **Geo-RAG для Петербурга** | Вопросы про кафе, парки и музеи в центре города. Проверяю гипотезу: обычный RAG ошибается на вопросах про расстояния, а система с геоинструментом справляется лучше | Python, Ollama, OSMnx, FAISS, GeoPandas |
+| **Geo-RAG для Петербурга** · [GitHub](https://github.com/DmitriyRybka/geoRAG) | Вопросы про кафе, парки и музеи в центре города. Проверяю гипотезу: обычный RAG ошибается на вопросах про расстояния, а система с геоинструментом справляется лучше | Python, Ollama, OSMnx, FAISS, GeoPandas |
 | **BulTrack** | GPS-трекер прогулок | Android |
 | **BulMapPlaces** (Place Diary) | Личный дневник мест на карте | Mobile |
 | **BulHub** · [GitHub](https://github.com/DmitriyRybka/BulHub) | Хаб продуктивности, центр моей «Буль-экосистемы» | Full-stack |
